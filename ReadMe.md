@@ -1,3 +1,3 @@
-# My Resume Template on HTML n CSS
+# My Resume Template 
 
-Vishnu Basskar V  Resume Template
+Vishnu Basskar V  Resume Template Only On HTML N CSS
