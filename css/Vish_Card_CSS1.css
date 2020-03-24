@@ -1,7 +1,8 @@
 body{
 			/*background: url("C:\Users\vishnu\Desktop\hero-bg-3000.jpg");*/
 			background-color: green;
-			height: 500px; /* You must set a specified height */
+			height: auto;
+			/*height: 500px; /* You must set a specified height */
 			background-position: center; /* Center the image */
 			background-repeat: no-repeat; /* Do not repeat the image */
 			background-size: 100% 100%;
