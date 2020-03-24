@@ -6,7 +6,8 @@ body{
 			/*height: 500px; */ You must set a specified height */
 			background-position: center; /* Center the image */
 			background-repeat: no-repeat; /* Do not repeat the image */
-			background-size: cover;
+			/*background-size: cover;*/
+			background-attachment: fixed;
 			background-size: 100% 100%;
 		}
 div{
